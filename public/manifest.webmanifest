@@ -1,0 +1,27 @@
+{
+    "theme_color": "#A4DBDC",
+    "background_color": "#f7f5f5",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Praga Coffe & Tea WebApp",
+    "short_name": "PragaApp",
+    "description": "Aplicaci\u00f3n web progresiva desarrollada con Next Js, Prisma, Tailwind y m\u00e1s.",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ]
+}
